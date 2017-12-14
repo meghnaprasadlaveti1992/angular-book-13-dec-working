@@ -1,0 +1,22 @@
+{
+
+    "availability": [
+        "California stores"
+    ],
+    "cover": {
+        "type": "hard bound "
+    },
+    "views": 4,
+    "description": "When Harvard symbologist Robert Langdon discovers the resurgence of an ancient brotherhood known as the Illuminati, he flies to Rome to warn the Vatican, the Illuminati's most hated enemy. Joining forces with beautiful Italian scientist Vittoria Vetra (Ayelet Zurer), Langdon follows a centuries-old trail of ancient symbols in the hope of preventing the Illuminati's deadly plot against the Roman Catholic Church from coming to fruition.",
+    "id": "Angels and Demons",
+    "images": [
+        "img/books/AnG1.jpg",
+        "img/books/AnG2.jpg",
+        "img/books/AnG3.jpg",
+        "img/books/AnG4.jpg"
+
+    ],
+    "name": "Angels and Demons"
+
+}
+

@@ -1,0 +1,26 @@
+{
+
+    "availability": [
+        "California stores"
+    ],
+    "cover": {
+        "type": "hard bound "
+    },
+
+    "views": 4,
+
+    "description": "Robert Langdon, Harvard professor of symbology and religious iconology, arrives at the ultramodern Guggenheim Museum Bilbao to attend a major announcement—the unveiling of a discovery that “will change the face of science forever.” The evening’s host is Edmond Kirsch, a forty-year-old billionaire and futurist whose dazzling high-tech inventions and audacious predictions have made him a renowned global figure. Kirsch, who was one of Langdon’s first students at Harvard two decades earlier, is about to reveal an astonishing breakthrough . . . one that will answer two of the fundamental questions of human existence.",
+
+
+    "id": "Origin",
+    "images": [
+        "img/books/Origin1.jpg",
+        "img/books/Origin2.jpg",
+        "img/books/Origin3.jpg",
+        "img/books/Origin4.jpg"
+
+    ],
+    "name": "Origin"
+
+}
+

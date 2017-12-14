@@ -1,0 +1,39 @@
+<div class="book-images">
+  <img ng-src="{{img}}" class="book"
+      ng-class="{selected: img === $ctrl.mainImageUrl}"
+      ng-repeat="img in $ctrl.book.images" />
+</div>
+
+<h1>{{$ctrl.book.name}}</h1>
+
+<p>{{$ctrl.book.description}}</p>
+
+<ul class="book-thumbs">
+  <li ng-repeat="img in $ctrl.book.images">
+    <img ng-src="{{img}}" ng-click="$ctrl.setImage(img)" />
+  </li>
+</ul>
+
+<ul class="specs">
+  <li>
+    <span>Availability </span>
+    <dl>
+      <dd ng-repeat="availability in $ctrl.book.availability">{{availability}}</dd>
+    </dl>
+  </li>
+  <li>
+    <span>Cover</span>
+    <dl>
+      <dt>Type</dt>
+      <dd>{{$ctrl.book.cover.type}}</dd>
+    </dl>
+  </li>
+  <li>
+    <span>Views</span>
+    <dl>
+      <dd>{{$ctrl.book.views}}</dd>
+    </dl>
+  </li>
+  <li>
+
+</ul>

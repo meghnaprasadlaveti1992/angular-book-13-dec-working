@@ -1,0 +1,27 @@
+{
+
+    "availability": [
+        "California Stores"
+    ],
+    "cover": {
+
+        "type": "Hard Bound"
+    },
+    "views": 4,
+
+    "description": "The Lost Symbol once again features Dan Brown’s unforgettable protagonist, Robert Langdon. Brown's longtime editor, Jason Kaufman, Vice President and Executive Editor at Doubleday said, Nothing ever is as it first appears in a Dan Brown novel. This book’s narrative takes place in a twelve-hour period, and from the first page, Dan's readers will feel the thrill of discovery as they follow Robert Langdon through a masterful and unexpected new landscape. The Lost Symbol is full of surprises.",
+
+
+    "id": "Lost Symbol",
+    "images": [
+        "img/books/LostSymbol1.jpg",
+        "img/books/LostSymbol2.jpg",
+        "img/books/LostSymbol3.jpg",
+        "img/books/LostSymbol4jpg"
+
+    ],
+    "name": "Lost Symbol"
+
+
+
+}

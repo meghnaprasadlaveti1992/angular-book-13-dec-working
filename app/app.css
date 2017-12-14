@@ -1,0 +1,93 @@
+body {
+  padding: 20px;
+}
+
+h1 {
+  border-bottom: 1px solid gray;
+  margin-top: 0;
+}
+
+/* View: Book list */
+.books {
+  list-style: none;
+}
+
+.books li {
+  clear: both;
+  height: 0px;
+  padding-top:0px;
+}
+
+.thumb {
+  float: left;
+  height: 80px;
+  margin: 1.5em 1em 3.5em 0;
+  padding-bottom: 1em;
+  width: 80px;
+}
+
+/* View: Book detail */
+.book {
+  background-color: white;
+  display: none;
+  float: left;
+  height: 200px;
+  margin-bottom: 2em;
+  margin-right: 3em;
+  padding: 2em;
+  width: 200px;
+}
+
+.book:first-child {
+  display: block;
+}
+
+.book-images {
+  background-color: white;
+  float: left;
+  height: 200px;
+  overflow: hidden;
+  position: relative;
+  width: 200px;
+}
+
+.book-thumbs {
+  list-style: none;
+  margin: 0;
+}
+
+.book-thumbs img {
+  height: 100px;
+  padding: 1em;
+  width: 100px;
+}
+
+.book-thumbs li {
+  background-color: white;
+  border: 1px solid black;
+  cursor: pointer;
+  display: inline-block;
+  margin: 1em;
+}
+
+.specs {
+  clear: both;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.specs dt {
+  font-weight: bold;
+}
+
+.specs > li {
+  display: inline-block;
+  vertical-align: top;
+  width: 400px;
+}
+
+.specs > li > span {
+  font-size: 1.2em;
+  font-weight: bold;
+}

@@ -1,0 +1,27 @@
+{
+
+    "availability": [
+        "California Stores"
+    ],
+    "cover": {
+
+        "type": "Hard Bound"
+    },
+
+    "views": 4,
+
+    "description": "When the United States National Security Agency's code-breaking supercomputer TRANSLTR encounters a revolutionary new code, Digital Fortress, that it cannot break, Commander Trevor Strathmore calls in head cryptographer Susan Fletcher to crack it.",
+
+
+"id": "Digital Fortress",
+"images": [
+"img/books/DigitalFortress1.jpg",
+"img/books/DigitalFortress2.jpg",
+"img/books/DigitalFortress3.jpg",
+"img/books/DigitalFortress4.jpg"
+
+],
+"name": "Digital Fortress"
+
+
+}
